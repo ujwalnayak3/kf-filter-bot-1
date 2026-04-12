@@ -1,7 +1,7 @@
 FROM python:3.10.8-slim-buster
 
-WORKDIR /Jisshu-filter-bot
-RUN chmod 777 /Jisshu-filter-bot
+WORKDIR /kf-filter-bot-1
+RUN chmod 777 /kf-filter-bot-1
 
 RUN apt update && apt install -y --no-install-recommends git \
     && rm -rf /var/lib/apt/lists/*
