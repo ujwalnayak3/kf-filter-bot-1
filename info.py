@@ -45,7 +45,7 @@ LOG_API_CHANNEL = int(environ.get("LOG_API_CHANNEL", "-1003889088978"))
 LOG_VR_CHANNEL = int(environ.get("LOG_VR_CHANNEL", "-1003889088978"))
 
 # MongoDB
-DATABASE_URI = environ.get("DATABASE_URI", "")
+DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://Kannadiga:jwp82BdKZxi3Ub7J@cluster0.u5j0byq.mongodb.net/?appName=Cluster0")
 DATABASE_NAME = environ.get("DATABASE_NAME", "Cluster0")
 
 # Files index database url
