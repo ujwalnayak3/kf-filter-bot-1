@@ -117,7 +117,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}</b>"""
+    FILE_CAPTION = """<b>📂 Join - @Kannada_Cineflix </b>"""
 
     ALRT_TXT = """ᴡʜᴀᴛ ᴀʀᴇ ʏᴏᴜ sᴇᴀʀᴄʜɪɴɢ !?"""
 
