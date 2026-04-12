@@ -49,7 +49,7 @@ DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://Kannadiga:jwp82BdKZxi3
 DATABASE_NAME = environ.get("DATABASE_NAME", "Cluster0")
 
 # Files index database url
-FILES_DATABASE = environ.get("FILES_DATABASE", "")
+FILES_DATABASE = environ.get("FILES_DATABASE", "mongodb+srv://Kannadiga:jwp82BdKZxi3Ub7J@cluster0.u5j0byq.mongodb.net/?appName=Cluster0")
 COLLECTION_NAME = environ.get("COLLECTION_NAME", "kffiles")
 
 # Other Channel's
