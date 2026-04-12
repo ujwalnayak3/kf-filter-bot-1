@@ -159,11 +159,11 @@ User - {}"""
 
 <code>/set_verify_3 linkmonetizer.in fcee6bbc628cfc61229a2d808e1b0ee3315a0f5e</code>
 
-<code>/set_tutorial https://t.me/Jisshu_developer</code>
+<code>/set_tutorial https://t.me/+PQTSxS5vxeo5YzBl</code>
 
-<code>/set_tutorial_2 https://t.me/Jisshu_developer</code>
+<code>/set_tutorial_2 https://t.me/+PQTSxS5vxeo5YzBl</code>
 
-<code>/set_tutorial_3 https://t.me/Jisshu_developer</code>
+<code>/set_tutorial_3 https://t.me/+PQTSxS5vxeo5YzBlr</code>
 
 <code>/set_time_2 300</code>
 
