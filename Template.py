@@ -1,7 +1,7 @@
 
 
 class jisshu_template(object):
-    JISSHU_NAME = "Jisshu"
+    JISSHU_NAME = "Kannada Cineflix"
 
     JISSHU_DISCLAIMER = (
         "This website only provides a service to help you play your video online without downloading. "
