@@ -1,13 +1,13 @@
 
-
 class jisshu_template(object):
-    JISSHU_NAME = "Kannada Cineflix"
+    JISSHU_NAME = "Jisshu"
 
     JISSHU_DISCLAIMER = (
         "This website only provides a service to help you play your video online without downloading. "
+        "join fast Kannada_Cineflix Telegram Channel."
     )
 
-    SUPPORT_LINK = "https://t.me/kfmoviessupport_bot"
+    JISSHU_REPORT_LINK = "https://t.me/kfmoviessupport_bot"
 
     JISSHU_COLOURS = {
         "header": {"background": "#48cffe", "color": "#ffffff"},
